@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Pima/Documents/Visual Studio 2015/Projects/MonogameTest/MonogameTest/Content/score.spritefont</SourceFile>
+  <SourceTime>2016-03-04T19:02:18.4175909-06:00</SourceTime>
+  <DestFile>C:/Users/Pima/Documents/Visual Studio 2015/Projects/MonogameTest/MonogameTest/Content/bin/Windows/score.xnb</DestFile>
+  <DestTime>2016-03-04T19:02:25.4425167-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T12:14:44-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T12:14:44-05:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
